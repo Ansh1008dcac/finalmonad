@@ -1,6 +1,5 @@
 const { ethers } = require("ethers");
 const colors = require("colors");
-const readline = require("readline");
 const fs = require("fs");
 const config = require('./config');
 
